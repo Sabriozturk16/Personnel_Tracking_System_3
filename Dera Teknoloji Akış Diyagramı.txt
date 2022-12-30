@@ -1,0 +1,19 @@
+--Veri Tabanı Tablodaki Parametreler--
+1.• Ad ve soyad
+2.• Doğum tarihi
+3.• Cinsiyet
+4.• İşe giriş tarihi
+5.• Pozisyon
+
+--Sözde Kod--
+1.Program Başla
+2.Sisteme Kullanıcı Adı İle Giriş
+3.Sisteme giren kişi personel mi , yönetici mi kontrol et
+4.Sonuç Personelse
+ a.Kendi Bilgilerini Görüntülesin
+ b.Kendi Bilgilerini Güncelleyebilsin
+ c.İzin talebi Yaratabilsin
+5.Sonuç Yöneticiyse 
+ a.Personellerin Bilgilerini Görsün
+ b.Personellerin Bilgilerini Güncellesin
+ c.Personelden gelen izin taleplerini Onaylasın
